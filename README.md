@@ -1,20 +1,9 @@
 # Ödev 1 
 
 ## İçerikler
-* [Ekran Görüntüleri](#ekran-görüntüleri)
 * [Kullanım](#kullanım)
 * [Proje Durumu](#proje-durumu)
 
-
-## Ekran Görüntüleri
-![Example screenshot](./img/1.PNG)
-
-![Example screenshot](./img/2.PNG)
-
-![Example screenshot](./img/3.PNG)
-
-![Example screenshot](./img/4.PNG)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Kullanım
